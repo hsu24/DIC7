@@ -23,3 +23,9 @@ push everything to https://github.com/hsu24/DIC7.git
 
 ## Assistant Response 4
 I have successfully initialized the repository, added all files, committed the work, and pushed everything to your GitHub repository at `https://github.com/hsu24/DIC7.git`.
+
+## User Request 5
+put live demo in README.md
+
+## Assistant Response 5
+I have added a Live Demo badge to the `README.md`, committed the change, and pushed the update to GitHub.

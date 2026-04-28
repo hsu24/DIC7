@@ -1,5 +1,7 @@
 # CRISP-DM Linear Regression Streamlit App
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dic7.streamlit.app/)
+
 This repository contains a single-file Streamlit application (`app.py`) that demonstrates the six phases of the Cross-Industry Standard Process for Data Mining (CRISP-DM) using a Linear Regression model.
 
 ## Features
