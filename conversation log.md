@@ -47,3 +47,9 @@ ModuleNotFoundError: This app has encountered an error... Traceback: File "/moun
 
 ## Assistant Response 8
 The error occurred because Streamlit Cloud requires a `requirements.txt` file to know which Python packages to install. I have created the `requirements.txt` file, committed it, and pushed it to GitHub. Streamlit Cloud will automatically detect it, install the dependencies, and fix the error.
+
+## User Request 9
+add live demo to README: https://hsu24-dic7.streamlit.app/
+
+## Assistant Response 9
+I've updated the Live Demo badge in the `README.md` to point to the correct URL: `https://hsu24-dic7.streamlit.app/`. I also committed and pushed the changes to GitHub.
