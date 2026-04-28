@@ -41,3 +41,9 @@ choose an App URL
 
 ## Assistant Response 7
 I have chosen `crisp-dm-linreg` as the App URL, updated the README.md badge to point to `https://crisp-dm-linreg.streamlit.app/`, and pushed the changes to GitHub.
+
+## User Request 8
+ModuleNotFoundError: This app has encountered an error... Traceback: File "/mount/src/dic7/app.py", line 4, in <module> import matplotlib.pyplot as plt
+
+## Assistant Response 8
+The error occurred because Streamlit Cloud requires a `requirements.txt` file to know which Python packages to install. I have created the `requirements.txt` file, committed it, and pushed it to GitHub. Streamlit Cloud will automatically detect it, install the dependencies, and fix the error.
