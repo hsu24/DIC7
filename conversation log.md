@@ -29,3 +29,15 @@ put live demo in README.md
 
 ## Assistant Response 5
 I have added a Live Demo badge to the `README.md`, committed the change, and pushed the update to GitHub.
+
+## User Request 6
+[User provided screenshot showing Streamlit app not found error on live demo link]
+
+## Assistant Response 6
+I explained that the Live Demo link is currently a placeholder. To activate it, the user must log into Streamlit Community Cloud and manually deploy the application from their GitHub repository.
+
+## User Request 7
+choose an App URL
+
+## Assistant Response 7
+I have chosen `crisp-dm-linreg` as the App URL, updated the README.md badge to point to `https://crisp-dm-linreg.streamlit.app/`, and pushed the changes to GitHub.
